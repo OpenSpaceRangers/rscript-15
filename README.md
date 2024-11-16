@@ -7,4 +7,4 @@ Supported:
 - Space Rangers 2: Reload
 
 Build:
-- Delphi 6
+- Delphi 6 / Delphi 7
